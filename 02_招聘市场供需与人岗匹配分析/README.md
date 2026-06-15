@@ -31,7 +31,7 @@
 
 ![招聘市场供需与人岗匹配分析仪表盘](./dashboard/招聘市场供需与人岗匹配分析仪表盘.png)
 
-Tableau Public 在线地址：这里粘贴你的 Tableau Public 链接
+Tableau Public 在线地址：https://public.tableau.com/app/profile/zz.1599/viz/3_17815324513400/1#1
 
 ## 五、核心业务结论
 
